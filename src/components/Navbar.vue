@@ -14,8 +14,8 @@
       <div class="container flex flex-wrap justify-between items-center">
         <a href="https://flowbite.com" class="flex items-center mr-12">
           <img
-            src="https://flowbite.com/docs/images/logo.svg"
-            class="mr-3 h-6 sm:h-9"
+            src="https://img.freepik.com/free-vector/wellness-leaf-logo-template-modern-nature-design-vector_53876-136291.jpg?t=st=1648271938~exp=1648272538~hmac=a6cce01e6215a1174c75502d813ad30d9354f94a11bb404c98635b260add4240&w=826"
+            class="mr-3 h-16 sm:h-9"
             alt="Flowbite Logo"
           />
           <span
@@ -25,9 +25,23 @@
               font-semibold
               whitespace-nowrap
               dark:text-white
+              text-[#AB9082]
+              font-bold
+              
             "
-            >Mahardika - Health</span
-          >
+            >MAHARDIKA</span
+          ><span
+            class="
+              text-[#C3AEA2]
+              font-bold
+              self-center
+              text-xl
+              font-semibold
+              whitespace-nowrap
+              dark:text-white
+            "
+            >Health
+          </span>
         </a>
         <button
           data-collapse-toggle="menu--mobile"
@@ -207,37 +221,34 @@
           </ul>
         </div>
         <div class="ml-12">
+          
+      
           <button
+          style="width: 160px"
             type="button"
             class="
               text-white
-              bg-gradient-to-br
-              from-green-400
-              to-blue-600
+              bg-[#C3AEA2]
               hover:bg-gradient-to-bl
               focus:ring-4 focus:outline-none focus:ring-green-200
               dark:focus:ring-green-800
               font-medium
-              rounded-lg
+              rounded-full
               text-sm
               px-5
               py-3
               text-center
-              mr-2
               mb-2
             "
           >
             Register
           </button>
-
-          <button
+              <!-- <button
             type="button"
             class="
+              mr-2
               text-gray-900
-              bg-gradient-to-r
-              from-red-200
-              via-red-300
-              to-yellow-200
+              bg-transparent
               hover:bg-gradient-to-bl
               focus:ring-4 focus:outline-none focus:ring-red-100
               dark:focus:ring-red-400
@@ -245,13 +256,16 @@
               rounded-lg
               text-sm
               px-5
-              py-3
+              py-3.5
               text-center
               mb-2
+              font-bold
+              text-xl
             "
           >
             Login
-          </button>
+          </button> -->
+
         </div>
       </div>
     </nav>

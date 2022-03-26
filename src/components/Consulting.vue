@@ -17,607 +17,450 @@
                 bg-white
                 rounded-lg
                 shadow-md
-                dark:bg-gray-800 w-30 h-30 dark:border-gray-700
+                dark:bg-gray-800
+                w-30
+                h-30
+                dark:border-gray-700
               "
             >
-            <div class="flex justify-center">
-              <svg
-                class="w-16 h-16"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"
-                ></path>
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"
-                ></path>
-              </svg>
-            </div>
+              <div class="flex justify-center">
+                <img
+                  src="https://thumbs.dreamstime.com/b/cute-baby-icon-boy-smiling-over-white-background-colorful-design-vector-illustration-83947705.jpg"
+                  class="w-16 h-16"
+                  alt=""
+                />
+              </div>
               <div class="px-5 pb-5">
                 <a href="#">
                   <h5
                     class="
-                      text-2xl
+                      text-xl
                       font-semibold
                       tracking-tight
                       text-gray-900
                       dark:text-white
                     "
                   >
-                    All Service
+                    Baby Health
                   </h5>
                 </a>
-                
               </div>
             </div>
           </div>
           <div class="ml-2 mt-12">
-            
             <div
               class="
                 max-w-sm
                 bg-white
                 rounded-lg
                 shadow-md
-                dark:bg-gray-800 w-30 h-30 dark:border-gray-700
+                dark:bg-gray-800
+                w-30
+                h-30
+                dark:border-gray-700
               "
             >
-            <div class="flex justify-center">
-              <svg
-                class="w-16 h-16"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"
-                ></path>
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"
-                ></path>
-              </svg>
-            </div>
+              <div class="flex justify-center">
+                <img
+                  src="https://cdn-icons-png.flaticon.com/512/387/387626.png"
+                  class="h-16 w-16 mb-1"
+                  alt=""
+                />
+              </div>
               <div class="px-5 pb-5">
                 <a href="#">
                   <h5
                     class="
-                      text-2xl
+                      text-xl
                       font-semibold
                       tracking-tight
                       text-gray-900
                       dark:text-white
                     "
                   >
-                    All Service
+                    Stomach
                   </h5>
                 </a>
-                
               </div>
             </div>
           </div>
           <div class="ml-2 mt-12">
-            
             <div
               class="
                 max-w-sm
                 bg-white
                 rounded-lg
                 shadow-md
-                dark:bg-gray-800 w-30 h-30 dark:border-gray-700
+                dark:bg-gray-800
+                w-30
+                h-30
+                dark:border-gray-700
               "
             >
-            <div class="flex justify-center">
-              <svg
-                class="w-16 h-16"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"
-                ></path>
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"
-                ></path>
-              </svg>
-            </div>
+              <div class="flex justify-center">
+                <img
+                  src="https://e7.pngegg.com/pngimages/559/419/png-clipart-computer-icons-icon-design-business-mindful-psychology-business.png"
+                  class="w-16 h-16"
+                  alt=""
+                />
+              </div>
               <div class="px-5 pb-5">
                 <a href="#">
                   <h5
                     class="
-                      text-2xl
+                      mt-1
+                      text-xl
                       font-semibold
                       tracking-tight
                       text-gray-900
                       dark:text-white
                     "
                   >
-                    All Service
+                    psychology
                   </h5>
                 </a>
-                
               </div>
             </div>
           </div>
           <div class="ml-2 mt-12">
-            
             <div
               class="
                 max-w-sm
                 bg-white
                 rounded-lg
                 shadow-md
-                dark:bg-gray-800 w-30 h-30 dark:border-gray-700
+                dark:bg-gray-800
+                w-30
+                h-30
+                dark:border-gray-700
               "
             >
-            <div class="flex justify-center">
-              <svg
-                class="w-16 h-16"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"
-                ></path>
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"
-                ></path>
-              </svg>
-            </div>
+              <div class="flex justify-center">
+                <img
+                  src="https://cdn-icons-png.flaticon.com/512/392/392936.png?w=826&t=st=1648269891~exp=1648270491~hmac=54bba3fee5646393bfadf73b35fb2308f648c3e62d23c04dbef0538761c715fd"
+                  class="h-16 w-16"
+                  alt=""
+                />
+              </div>
               <div class="px-5 pb-5">
                 <a href="#">
                   <h5
                     class="
-                      text-2xl
+                      text-xl
                       font-semibold
                       tracking-tight
                       text-gray-900
                       dark:text-white
+                      mt-1
                     "
                   >
-                    All Service
+                    Urotology
                   </h5>
                 </a>
-                
               </div>
             </div>
           </div>
           <div class="ml-2 mt-12">
-            
             <div
               class="
                 max-w-sm
                 bg-white
                 rounded-lg
                 shadow-md
-                dark:bg-gray-800 w-30 h-30 dark:border-gray-700
+                dark:bg-gray-800
+                w-30
+                h-30
+                dark:border-gray-700
               "
             >
-            <div class="flex justify-center">
-              <svg
-                class="w-16 h-16"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"
-                ></path>
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"
-                ></path>
-              </svg>
-            </div>
+              <div class="flex justify-center">
+                <img
+                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXrB5UpnukAuQQCRtka2-Tp1znrhrKXtwXnQ&usqp=CAU"
+                  class="w-16 h-16"
+                  alt=""
+                />
+              </div>
               <div class="px-5 pb-5">
                 <a href="#">
                   <h5
                     class="
-                      text-2xl
+                      mt-1
+                      text-xl
                       font-semibold
                       tracking-tight
                       text-gray-900
                       dark:text-white
                     "
                   >
-                    All Service
+                    Dermatology
                   </h5>
                 </a>
-                
               </div>
             </div>
           </div>
           <div class="ml-2 mt-12">
-            
             <div
               class="
                 max-w-sm
                 bg-white
                 rounded-lg
                 shadow-md
-                dark:bg-gray-800 w-30 h-30 dark:border-gray-700
+                dark:bg-gray-800
+                w-30
+                h-30
+                dark:border-gray-700
               "
             >
-            <div class="flex justify-center">
-              <svg
-                class="w-16 h-16"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"
-                ></path>
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"
-                ></path>
-              </svg>
-            </div>
+              <div class="flex justify-center">
+                <img
+                  src="https://icon-library.com/images/disease-icon/disease-icon-1.jpg"
+                  class="w-16 h-16"
+                  alt=""
+                />
+              </div>
               <div class="px-5 pb-5">
                 <a href="#">
                   <h5
                     class="
-                      text-2xl
+                      mt-1
+                      text-xl
                       font-semibold
                       tracking-tight
                       text-gray-900
                       dark:text-white
                     "
                   >
-                    All Service
+                    Diseuses
                   </h5>
                 </a>
-                
               </div>
             </div>
           </div>
           <div class="ml-2 mt-12">
-            
             <div
               class="
                 max-w-sm
                 bg-white
                 rounded-lg
                 shadow-md
-                dark:bg-gray-800 w-30 h-30 dark:border-gray-700
+                dark:bg-gray-800
+                w-30
+                h-30
+                dark:border-gray-700
               "
             >
-            <div class="flex justify-center">
-              <svg
-                class="w-16 h-16"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"
-                ></path>
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"
-                ></path>
-              </svg>
-            </div>
+              <div class="flex justify-center">
+                <img
+                  src="https://cdn-icons-png.flaticon.com/512/119/119055.png"
+                  class="h-16 w-16"
+                  alt=""
+                />
+              </div>
               <div class="px-5 pb-5">
                 <a href="#">
                   <h5
                     class="
-                      text-2xl
+                      text-xl
+                      mt-1
                       font-semibold
                       tracking-tight
                       text-gray-900
                       dark:text-white
                     "
                   >
-                    All Service
+                    HIV & AIDS
                   </h5>
                 </a>
-                
               </div>
             </div>
           </div>
           <div class="ml-2 mt-12">
-            
             <div
               class="
                 max-w-sm
                 bg-white
                 rounded-lg
                 shadow-md
-                dark:bg-gray-800 w-30 h-30 dark:border-gray-700
+                dark:bg-gray-800
+                w-30
+                h-30
+                dark:border-gray-700
               "
             >
-            <div class="flex justify-center">
-              <svg
-                class="w-16 h-16"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"
-                ></path>
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"
-                ></path>
-              </svg>
-            </div>
+              <div class="flex justify-center">
+                <img
+                  src="https://www.seekpng.com/png/full/979-9799569_dentist-icon-transparent-teeth-icon.png"
+                  class="h-16 w-16"
+                  alt=""
+                />
+              </div>
               <div class="px-5 pb-5">
                 <a href="#">
                   <h5
                     class="
-                      text-2xl
+                      text-xl
+                      mt-1
                       font-semibold
                       tracking-tight
                       text-gray-900
                       dark:text-white
                     "
                   >
-                    All Service
+                    Dentisty
                   </h5>
                 </a>
-                
               </div>
             </div>
           </div>
           <div class="ml-2 mt-12">
-            
             <div
               class="
                 max-w-sm
                 bg-white
                 rounded-lg
                 shadow-md
-                dark:bg-gray-800 w-30 h-30 dark:border-gray-700
+                dark:bg-gray-800
+                w-30
+                h-30
+                dark:border-gray-700
               "
             >
-            <div class="flex justify-center">
-              <svg
-                class="w-16 h-16"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"
-                ></path>
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"
-                ></path>
-              </svg>
-            </div>
+              <div class="flex justify-center">
+                <img
+                  src="https://i.pinimg.com/564x/ce/74/3c/ce743cfac0d6efc4a1f0b1495aef3f85.jpg"
+                  class="h-16 w-16"
+                  alt=""
+                />
+              </div>
               <div class="px-5 pb-5">
                 <a href="#">
                   <h5
                     class="
-                      text-2xl
+                      text-xl
+                      mt-1
                       font-semibold
                       tracking-tight
                       text-gray-900
                       dark:text-white
                     "
                   >
-                    All Service
+                    Alergy
                   </h5>
                 </a>
-                
               </div>
             </div>
           </div>
           <div class="ml-2 mt-12">
-            
             <div
               class="
                 max-w-sm
                 bg-white
                 rounded-lg
                 shadow-md
-                dark:bg-gray-800 w-30 h-30 dark:border-gray-700
+                dark:bg-gray-800
+                w-30
+                h-30
+                dark:border-gray-700
               "
             >
-            <div class="flex justify-center">
-              <svg
-                class="w-16 h-16"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"
-                ></path>
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"
-                ></path>
-              </svg>
-            </div>
+              <div class="flex justify-center">
+                <img
+                  src="https://cdn-icons-png.flaticon.com/512/172/172835.png?w=826&t=st=1648273897~exp=1648274497~hmac=7f7acab62af8029ad3a4621e06d2399d0747c0f4900eb4441836bad131ba0925"
+                  class="h-16 w-16"
+                  alt=""
+                />
+              </div>
               <div class="px-5 pb-5">
                 <a href="#">
                   <h5
                     class="
-                      text-2xl
+                      text-xl
+                      mt-1
                       font-semibold
                       tracking-tight
                       text-gray-900
                       dark:text-white
                     "
                   >
-                    All Service
+                    Medicine
                   </h5>
                 </a>
-                
               </div>
             </div>
           </div>
           <div class="ml-2 mt-12">
-            
             <div
               class="
                 max-w-sm
                 bg-white
                 rounded-lg
                 shadow-md
-                dark:bg-gray-800 w-30 h-30 dark:border-gray-700
+                dark:bg-gray-800
+                w-30
+                h-30
+                dark:border-gray-700
               "
             >
-            <div class="flex justify-center">
-              <svg
-                class="w-16 h-16"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"
-                ></path>
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"
-                ></path>
-              </svg>
-            </div>
+              <div class="flex justify-center">
+                <img
+                  src="https://icon-library.com/images/ent-icon/ent-icon-7.jpg"
+                  class="h-16 w-16"
+                  alt=""
+                />
+              </div>
               <div class="px-5 pb-5">
                 <a href="#">
                   <h5
                     class="
-                      text-2xl
+                      text-xl
+                      mt-1
                       font-semibold
                       tracking-tight
                       text-gray-900
                       dark:text-white
                     "
                   >
-                    All Service
+                    Otolaryngology
                   </h5>
                 </a>
-                
               </div>
             </div>
           </div>
           <div class="ml-2 mt-12">
-            
             <div
               class="
                 max-w-sm
                 bg-white
                 rounded-lg
                 shadow-md
-                dark:bg-gray-800 w-30 h-30 dark:border-gray-700
+                dark:bg-gray-800
+                w-30
+                h-30
+                dark:border-gray-700
               "
             >
-            <div class="flex justify-center">
-              <svg
-                class="w-16 h-16"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"
-                ></path>
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"
-                ></path>
-              </svg>
-            </div>
+              <div class="flex justify-center">
+                <img
+                  src="https://cdn-icons-png.flaticon.com/512/421/421415.png?w=826&t=st=1648274104~exp=1648274704~hmac=c68f54a5885422318ccab0e3dc1b3108aeee18e3509e50dd6246b21d182d7ede"
+                  class="w-16 h-16"
+                  alt=""
+                />
+              </div>
               <div class="px-5 pb-5">
                 <a href="#">
                   <h5
                     class="
-                      text-2xl
+                      text-xl
+                      mt-1
                       font-semibold
                       tracking-tight
                       text-gray-900
                       dark:text-white
                     "
                   >
-                    All Service
+                    Neurology
                   </h5>
                 </a>
-                
               </div>
             </div>
           </div>
